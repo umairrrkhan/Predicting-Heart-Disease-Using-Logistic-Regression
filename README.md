@@ -55,7 +55,6 @@ The following methods are used:
 
 ## Results
 - The logistic regression model achieves an accuracy of 85% on the test set.
-- The AUC-ROC curve is 0.89, indicating good discrimination of the model.
 - Key factors identified for heart disease are patient age, blood pressure, cholesterol levels, etc.
 
 ## Contact 
